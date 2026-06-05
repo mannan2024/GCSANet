@@ -2,6 +2,13 @@
 
 GCSANet is a PyTorch-based land-use and land-cover segmentation pipeline for vegetation-focused remote sensing experiments. This repository packages the workflow from dataset setup through model training, evaluation, and ablation studies.
 
+
+## Overview
+
+![Pipeline Overview](docs/pipeline.png)
+
+
+
 ## Requirements
 
 - Python 3.10+
