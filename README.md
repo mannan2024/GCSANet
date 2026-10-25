@@ -24,6 +24,8 @@ GCSANet is a PyTorch-based land-use and land-cover segmentation pipeline for veg
 git clone https://github.com/mannan2024/GCSANet.git
 cd VegeSSL
 
+#Environmental setup
+
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
